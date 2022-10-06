@@ -1,2 +1,4 @@
-package task1;public class Food {
+package task1;
+
+public class Food {
 }

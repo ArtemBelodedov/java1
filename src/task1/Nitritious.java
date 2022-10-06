@@ -1,2 +1,5 @@
-package task1;public interface Nitritious {
+package task1;
+
+public interface Nitritious {
+    public int calculateCalories();
 }
